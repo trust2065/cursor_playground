@@ -1,0 +1,31 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+[params]
+  description = 'Welcome to my blog'
+  favicon = ''
+  site_logo = ''
+  facebook = ''
+  twitter = ''
+  instagram = ''
+  youtube = ''
+  github = ''
+  gitlab = ''
+  linkedin = ''
+  mastodon = ''
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 2
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 3
