@@ -1,10 +1,10 @@
 baseURL = 'https://trust2065.github.io/cursor_playground/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
 title = '澳洲0-3歲育兒指南'
 theme = 'ananke'
 
 [params]
-  description = 'Welcome to my blog'
+  description = '分享澳洲育兒經驗和建議'
   favicon = ''
   site_logo = ''
   facebook = ''
@@ -18,14 +18,26 @@ theme = 'ananke'
 
 [menu]
   [[menu.main]]
-    name = 'Home'
+    name = '首頁'
     url = '/'
     weight = 1
   [[menu.main]]
-    name = 'Posts'
+    name = '文章列表'
     url = '/posts/'
     weight = 2
   [[menu.main]]
-    name = 'About'
-    url = '/about/'
+    name = '分類'
+    url = '/categories/'
     weight = 3
+  [[menu.main]]
+    name = '標籤'
+    url = '/tags/'
+    weight = 4
+  [[menu.main]]
+    name = '關於'
+    url = '/about/'
+    weight = 5
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
