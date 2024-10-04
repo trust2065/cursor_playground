@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://trust2065.github.io/cursor_playground/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '澳洲0-3歲育兒指南'
 theme = 'ananke'
 
 [params]
