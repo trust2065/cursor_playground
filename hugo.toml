@@ -1,0 +1,44 @@
+baseURL = 'https://trust2065.github.io/cursor_playground/'
+languageCode = 'zh-tw'
+title = '澳洲0-3歲育兒指南'
+theme = 'ananke'
+
+[params]
+  description = '分享澳洲育兒經驗和建議'
+  favicon = ''
+  site_logo = ''
+  facebook = ''
+  twitter = ''
+  instagram = ''
+  youtube = ''
+  github = ''
+  gitlab = ''
+  linkedin = ''
+  mastodon = ''
+  summaryLength = 70  # 這會生成大約 200 個中文字符的摘要
+
+[menu]
+  [[menu.main]]
+    name = '首頁'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = '文章列表'
+    url = '/posts/'
+    weight = 2
+  [[menu.main]]
+    name = '分類'
+    url = '/categories/'
+    weight = 3
+  [[menu.main]]
+    name = '標籤'
+    url = '/tags/'
+    weight = 4
+  [[menu.main]]
+    name = '關於'
+    url = '/about/'
+    weight = 5
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
