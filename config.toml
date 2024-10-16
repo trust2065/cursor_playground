@@ -15,6 +15,7 @@ theme = 'ananke'
   gitlab = ''
   linkedin = ''
   mastodon = ''
+  mainSections = ["posts"]
 
 [menu]
   [[menu.main]]

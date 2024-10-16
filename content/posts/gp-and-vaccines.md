@@ -1,7 +1,7 @@
 ---
-title: "選擇家庭醫生和疫苗接種"
-date: 2023-04-15T13:00:00+08:00
-draft: false
+title: "全科醫生和疫苗"
+date: 2023-04-15
+draft: true
 categories: ["0歲", "1歲", "2歲", "3歲"]
 tags: ["GP", "疫苗", "醫療"]
 ---
