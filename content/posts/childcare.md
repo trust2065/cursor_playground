@@ -19,3 +19,29 @@ tags: ["Childcare", "教育"]
 4. 生病政策：了解托兒所對於生病兒童的政策，以及他們如何處理疾病傳播的問題。
 
 選擇合適的托兒所對孩子的早期發展至關重要，花時間研究和參觀多個選項可以幫助您做出最佳決定。
+
+
+## CC explore
+
+Jenny's daycare
+3 levels, 2 rooms at level 1 and 2, many rooms, 3rd level is preschooler
+teachers are patient and passion
+meal prepared (5 meals/day)
+no holiday care (possibly casual care tho)
+excursion on Friday 10-11am
+7am to 6pm
+outdoor space is actually indoor
+$167/day
+teachers stays at least 2 years!
+basement parking
+have spots on Wed, Thur and Friday!
+hire outsourcing sport coach
+
+## Stringybark
+
+1 level, next to street
+don't like it, teachers are sitting, not talking
+music they play is very calm, I like hyper
+only for 25 kids, all in one room
+Food is from delivery
+carer from Iran.
