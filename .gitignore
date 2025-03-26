@@ -30,3 +30,5 @@ node_modules/
 # Log files
 *.log
 .qodo
+
+themes/ananke.diff
