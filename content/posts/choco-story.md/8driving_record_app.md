@@ -1,1 +1,4 @@
 有辦法做出一個react native app 辨識聲音 然後再開車途中記錄你想到的事情嗎 像是用一些像hi google 類似的 然後要有明確結束指令才結束辨識聲音 因為有很多一閃即逝的念頭 有了草稿後下車可以再修改
+
+
+found out that we can't make anything that triggered by 'hey google' 

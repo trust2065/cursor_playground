@@ -18,5 +18,5 @@ very lovely and polite person
 二月滿六歲可以進primary school, 三月的不行
 小朋友會有大小孩班
 
-兩個孫子 男生叫max五歲 女生叫omilia七歲
+兩個孫子 男生叫Max五歲 女生叫Emilia七歲
 星期一游泳 星期三體操 星期五stay with nana overnight
