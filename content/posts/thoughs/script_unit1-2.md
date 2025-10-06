@@ -1,3 +1,8 @@
+Seeking feedback - not just reading the transcript
+Can use zoom to record and talk ppl online
+
+
+
 Staff
 Hello, my name is Choco, I'm one of the library assistants here.
 Welcome to the library, how can I assist you today?
@@ -67,3 +72,8 @@ Thank you for your help.
 
 Staff:
 You're very welcome.
+
+
+--
+
+part2

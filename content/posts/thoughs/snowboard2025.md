@@ -11,4 +11,4 @@ B - 轉之前身體先傾斜 後用肩膀引導 =肩轉
 https://www.youtube.com/watch?v=JUU71M_uDTQ
 - toe side不能全身壓在鞋舌上 前腳掌向下踩 小腿用力來維持住立刃角度
 ![alt text](image.png)
-- heel side大腿前側用力維持住'大腿和小腿的夾角‘
+- heel side大腿前側用力維持住'大腿和小腿的夾角'
