@@ -1,17 +1,17 @@
-A serial module is an add-on to LMS, it can manage subscription to serials.
-The serial module provides
-Subscription management, includes the 
-Frequency adding/editing, which determine how often the library get issues and how many issues the library get.
-Serial numbering patterns editing, which decides the customisable serial pattern, can be related to day/month/year/volume/number or any custom numbers.
-Adding/Editing subscription, choose from selected vendor(from acquisitions module or by vender id) and add the record (use unique id for the serial, for example, use biblionumber of the MARC record when with Koha LMS) 
-Receiving issues, use an action button to change the status of serial, it can be arrived, late, missing etc. There is also a buck editing page for each subscription.
-Allows patrons/library staff to see serial subscription status, includes frequency, start/end date, and availability.
-Optional routing list, which is a list to pass on before the serial goes to shelf. For example, it can be specific doctors who need to read a medical serial before the issue goes to public
-Some common serial status are 
-Expected, while we are under waiting period for its arrival
-Arrived, confirming it is in library’s possession. 
-Circulating, while it is circulating through a routing list
-Bound, when it is bound
-Late, when it is over the estimate waiting time
-Missing, can have reason behind such as never received or damaged.
-Claimed, means the issue has not arrived but a claim was sent to the vendor.
+A serial module is an add-on to an LMS and can manage subscriptions to serials.
+The serial module provides:
+	•	Subscription management, including frequency adding/editing, which determines how often the library receives issues and how many issues the library gets.
+	•	Serial numbering patterns editing, which defines the customizable serial pattern; it can be related to day, month, year, volume, number, or any custom numbers.
+	•	Adding/Editing subscriptions: choose from a selected vendor (from the acquisitions module or by vendor ID) and add the record (use a unique ID for the serial, for example, the biblionumber of the MARC record when using Koha LMS).
+	•	Receiving issues: use an action button to change the status of a serial; it can be Arrived, Late, Missing, etc. There is also a bulk editing page for each subscription.
+	•	Allows patrons and library staff to see the serial subscription status, including frequency, start/end date, and availability.
+	•	Optional routing list, which is a list to pass on before the serial goes to the shelf. For example, it can include specific doctors who need to read a medical serial before the issue goes to the public.
+
+Some common serial statuses are:
+	•	Expected – while we are under the waiting period for its arrival.
+	•	Arrived – confirming it is in the library’s possession.
+	•	Circulating – while it is circulating through a routing list.
+	•	Bound – when it is bound.
+	•	Late – when it is past the estimated waiting time.
+	•	Missing – can have reasons behind it, such as never received or damaged.
+	•	Claimed – means the issue has not arrived, but a claim was sent to the vendor.
