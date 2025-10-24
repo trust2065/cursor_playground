@@ -15,3 +15,10 @@ Some common serial statuses are:
 	•	Late – when it is past the estimated waiting time.
 	•	Missing – can have reasons behind it, such as never received or damaged.
 	•	Claimed – means the issue has not arrived, but a claim was sent to the vendor.
+
+
+
+  Self-Serve Kiosk
+A Self-Serve Kiosk is an add-on hardware module that can be integrated with a Learning Management System to streamline user access and automate administration functions. It allows patrons to lend materials with the minimum help from the staff. Typically, it has a touchscreen with a barcode reader, a RFID reader and a small receipt printer.
+It can take a couple minutes plus the time to line up to get service from library staff before introducing the automated kiosks to libraries. In the early days, we use Barcode and Magnetic Strip Systems. It speeds up the process by scanning each items within a blink of eyes.
+The technology keeps improving and we have RFID, which is a label sticker stick in library resources. The RFID reader in the kiosk can scan through the multiple items at once without the need to show RFID stickers in sight. As costs fell and standards matured, it is available and affordable for almost all libraries that are introducing Self-Serve Kiosk system. 
