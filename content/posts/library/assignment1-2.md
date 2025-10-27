@@ -19,6 +19,8 @@ Some common serial statuses are:
 
 
   Self-Serve Kiosk
-A Self-Serve Kiosk is an add-on hardware module that can be integrated with a Learning Management System to streamline user access and automate administration functions. It allows patrons to lend materials with the minimum help from the staff. Typically, it has a touchscreen with a barcode reader, a RFID reader and a small receipt printer.
-It can take a couple minutes plus the time to line up to get service from library staff before introducing the automated kiosks to libraries. In the early days, we use Barcode and Magnetic Strip Systems. It speeds up the process by scanning each items within a blink of eyes.
-The technology keeps improving and we have RFID, which is a label sticker stick in library resources. The RFID reader in the kiosk can scan through the multiple items at once without the need to show RFID stickers in sight. As costs fell and standards matured, it is available and affordable for almost all libraries that are introducing Self-Serve Kiosk system. 
+A Self-Serve Kiosk is an add-on hardware module that can be integrated with a Learning Management System (LMS) to streamline user access and automate administrative functions. It allows patrons to borrow and return materials with minimal assistance from staff. Typically, the kiosk features a touchscreen interface, a barcode reader, an RFID reader, and a small receipt printer for transaction records.
+
+Before the introduction of automated kiosks, patrons often needed to wait several minutes in line to receive service from library staff. In the early days, libraries relied on barcode and magnetic stripe systems, which already improved efficiency by allowing items to be scanned within seconds. However, technology has continued to advance with the introduction of Radio Frequency Identification (RFID). RFID uses small label stickers embedded in library materials, allowing the kiosk’s RFID reader to detect and process multiple items simultaneously without direct line of sight.
+
+As implementation costs have fallen and technical standards have matured, self-serve kiosk systems have become increasingly available and affordable for libraries of all sizes, providing a faster, more convenient, and user-friendly borrowing experience.
